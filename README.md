@@ -1,3 +1,3 @@
 # upskillCampus
-Digital Marketing Intern
+Digital Marketing Intern.
 During my industrial internship on Digital Marketing & SEO (Google Algorithms), I gained practical experience in implementing key digital marketing strategies to improve online visibility and website performance. My work included keyword research, on-page SEO optimization, content planning, meta tag improvement, back-link analysis, and monitoring website rankings through different SEO tools. I also learned how Google algorithms impact search engine rankings and how websites can adapt by focusing on quality content, user experience, mobile-friendliness, and technical SEO practices. 
